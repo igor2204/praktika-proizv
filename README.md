@@ -121,15 +121,19 @@ T9: 1 – 10
 ![image](https://github.com/igor2204/praktika/assets/117898131/80a84524-1869-4a02-a589-8d21eba78cfb)
 
 Таблица 2. Тест-кейс просмотра данных
+
 ![image](https://github.com/igor2204/praktika/assets/117898131/3c6710db-8536-43b3-be6f-61b919a247a6)
 
 Таблица 3. Тест-кейс удаления данных
+
 ![image](https://github.com/igor2204/praktika/assets/117898131/81f03b6e-8e0e-4ffb-8293-260aaaf3da31)
 
 Таблица 4. Тест-кейс открытия файла
+
 ![image](https://github.com/igor2204/praktika/assets/117898131/6738ff19-0f06-47e7-83cd-e86693bc906c)
 
 Таблица 5. Тест-кейс сохранения файла
+
 ![image](https://github.com/igor2204/praktika/assets/117898131/c0195f60-8a99-41e2-abf3-29bc1155fd2d)
 
 ## Contributing
