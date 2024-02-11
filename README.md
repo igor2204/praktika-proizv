@@ -12,12 +12,12 @@
 - [Команда проекта](#команда-проекта)
 - [Источники](#источники)
 
-  ## Технологии
+## Технологии
 - [VisualStudio 2022](https://visualstudio.microsoft.com/ru/)
 - [C#](https://learn.microsoft.com/ru-ru/dotnet/csharp/tour-of-csharp/)
 - [.NET 6.0](https://learn.microsoft.com/ru-ru/dotnet/welcome)
 
-  ## Использование
+## Использование
 Для работы с приложением необходимо следующее программное обеспечение:
 
 Microsoft Visual Studio Community 2022
@@ -28,37 +28,37 @@ Microsoft Visual Studio Community 2022
 3. Открыть ее.
 4. Нажать на кнопку запуска
 
-   ### Задача: «Создание, сохранение, просмотр и удаление данных»
+### Задача: «Создание, сохранение, просмотр и удаление данных»
 
-   Введите данные и нажмите на кнопку «Сохранение»
+Введите данные и нажмите на кнопку «Сохранение»
    
-   ![image](https://github.com/igor2204/praktika-proizv/assets/117898131/7e9b7661-0530-47c5-8bd2-f62701e4f399)
+![image](https://github.com/igor2204/praktika-proizv/assets/117898131/7e9b7661-0530-47c5-8bd2-f62701e4f399)
 
-   Выберите нужную строку в правой таблице и нажмите кнопку «Просмотр»
+Выберите нужную строку в правой таблице и нажмите кнопку «Просмотр»
 
-   ![image](https://github.com/igor2204/praktika-proizv/assets/117898131/b34f7542-8786-407b-b0db-c3b7b9cdc230)
+![image](https://github.com/igor2204/praktika-proizv/assets/117898131/b34f7542-8786-407b-b0db-c3b7b9cdc230)
 
-   Для удаления заметки нажмите на кнопку «Удаление»
+Для удаления заметки нажмите на кнопку «Удаление»
 
-   ![image](https://github.com/igor2204/praktika-proizv/assets/117898131/b2faae39-4ac9-4e3f-8b63-bb05abde0884)
+![image](https://github.com/igor2204/praktika-proizv/assets/117898131/b2faae39-4ac9-4e3f-8b63-bb05abde0884)
 
-   ### Задача: «Импорт текстового файла и экспорт текста в файл»
+### Задача: «Импорт текстового файла и экспорт текста в файл»
 
-   Нажмите на кнопку «Открыть файл»
+Нажмите на кнопку «Открыть файл»
 
-   ![image](https://github.com/igor2204/praktika-proizv/assets/117898131/0ae971b7-97d5-4754-8076-e977f8644ad9)
+![image](https://github.com/igor2204/praktika-proizv/assets/117898131/0ae971b7-97d5-4754-8076-e977f8644ad9)
 
-   Выберите нужный текстовый файл и нажмите кнопку «Открыть»
+Выберите нужный текстовый файл и нажмите кнопку «Открыть»
 
-   ![image](https://github.com/igor2204/praktika-proizv/assets/117898131/7f9c44b3-339b-4c14-954d-3924936bd6e1)
+![image](https://github.com/igor2204/praktika-proizv/assets/117898131/7f9c44b3-339b-4c14-954d-3924936bd6e1)
 
-   Наберите данные и нажмите на кнопку «Сохранить в файл»
+Наберите данные и нажмите на кнопку «Сохранить в файл»
 
-   ![image](https://github.com/igor2204/praktika-proizv/assets/117898131/29a06f50-1fbd-4895-8a49-e093e47bd16c)
+![image](https://github.com/igor2204/praktika-proizv/assets/117898131/29a06f50-1fbd-4895-8a49-e093e47bd16c)
 
-   Выберите место для сохранения, назовите файл и нажмите на кнопку «Сохранить»
+Выберите место для сохранения, назовите файл и нажмите на кнопку «Сохранить»
 
-   ![image](https://github.com/igor2204/praktika-proizv/assets/117898131/c4b553b7-677e-47ce-a12d-f316b15c2e29)
+![image](https://github.com/igor2204/praktika-proizv/assets/117898131/c4b553b7-677e-47ce-a12d-f316b15c2e29)
 
 ## Разработка
 
